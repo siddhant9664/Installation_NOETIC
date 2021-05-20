@@ -1,7 +1,7 @@
 # Installation of ROS (ROBOT OPERATING SYSTEM)
 ## For installation of ROS NOETIC you must be on UBUNTU version 20.04 only.
 
-### Follow the instructions  [here](https://www.youtube.com/watch?v=-iSAyiicyQY) for detailed Ubuntu 20.04 Installation.
+### Follow the instructions  [here](https://www.youtube.com/watch?v=-iSAyiicyQY) (Video tutorial) or [here](https://itsfoss.com/dual-boot-hdd-ssd/) (Webpage) for detailed Ubuntu 20.04 Installation.
 ## 1.ROS
 #### You can proceed with the instructions provided below or you can find these installation instructions [here](http://wiki.ros.org/noetic/Installation/Ubuntu)
 Open a new terminal and execute the commands below.
